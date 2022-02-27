@@ -1,0 +1,245 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The oppressor destroyed. As it was delivered in a sermon at Pauls Septem. 21. 1651. Preached before the Right Honourable the Lord Mayor, the Right worshipfull the aldermen and the sheriffs his brethren. It being a sermon in commemoration of the 3d of Sept. on which day it pleased the Lord to vouchsafe a wonderfull victorie to the Parliaments forces before Worcester, in the total defeat of the enemie, By Joseph Carryl, Minister of the Gospel at Magnus neer London-Bridge.</title>
+            <author>Caryl, Joseph, 1602-1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81215</idno>
+            <idno type="STC">Wing C783</idno>
+            <idno type="STC">Thomason E643_4</idno>
+            <idno type="STC">ESTC R205988</idno>
+            <idno type="EEBO-CITATION">99865200</idno>
+            <idno type="PROQUEST">99865200</idno>
+            <idno type="VID">117437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81215)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117437)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 99:E643[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The oppressor destroyed. As it was delivered in a sermon at Pauls Septem. 21. 1651. Preached before the Right Honourable the Lord Mayor, the Right worshipfull the aldermen and the sheriffs his brethren. It being a sermon in commemoration of the 3d of Sept. on which day it pleased the Lord to vouchsafe a wonderfull victorie to the Parliaments forces before Worcester, in the total defeat of the enemie, By Joseph Carryl, Minister of the Gospel at Magnus neer London-Bridge.</title>
+                  <author>Caryl, Joseph, 1602-1673.</author>
+               </titleStmt>
+               <extent>[4], 16, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.B. at the request of divers friends,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: September 27. 1651. Imprimatur John Downame.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "October. 6.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117437:1" rendition="simple:additions"/>
+            <p>THE OPPRESSOR Deſtroyed. As it was delivered in a Ser<g ref="char:EOLhyphen"/>mon at <hi>Pauls Septem.</hi> 21. 1651. Preached before the Right Honourable the Lord <hi>Mayor,</hi> The Right worſhipfull the Alder<g ref="char:EOLhyphen"/>men and the Sheriffs his Brethren. It being a Sermon in comemoration of the 3d of <hi>Sept.</hi> on which day it pleaſed the Lord to vouchſafe a wonderfull Victorie to the Parliaments Forces before <hi>Worceſter,</hi> in the total defeat of the Enemie, By <hi>Joſeph Carryl,</hi> Miniſter of the Goſpel at <hi>Magnus</hi> neer <hi>London</hi>-Bridge.</p>
+            <q>
+               <bibl>Pſal. 68. 1.</bibl> Let God ariſe, and let his enemies be ſcattered.</q>
+            <q>
+               <bibl>1 Theſſ. 5. 18.</bibl> In everie thing give thankes, for this is the will of God in Chriſt Jeſus concerning you.</q>
+            <p>LONDON, Printed by J. B. at the requeſt of divers Friends.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:117437:2"/>
+            <pb facs="tcp:117437:2"/>
+            <head>The Epiſtle.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">P</seg>
+               <g ref="char:V">Ʋ</g>blique good is that which ſhould bee the chief aim and endeavour of all men, a very heathen man could ſay, <hi>non nobis ſolum nati ſumus</hi> wee are not born only for our ſelves, a thouſand pities it were ſuch a Sermon as this is, ſhould lye aſleep and be buried in oblivion, which may be (through the bleſſing of God) of ſo much uſe to a whole Nation; in it thou haſt comprehen<g ref="char:EOLhyphen"/>ded the duty of Gods people, after the receipt of Deliverances, and that is to walk humbly and thankefully, and to keep the precepts of God.</p>
+            <p>To walk thankfully for mercies received is
+<pb facs="tcp:117437:3"/> the ready way to have deliverances renewed; to be brief, remember, <hi>Laeſa patientia fit furor</hi> mercies abuſed are turned into furie, take heed of making God your Enemie by continuing in your former ſinnes, but earneſtly deſire of God that thou mayeſt reap ſome ſpiritual advan<g ref="char:EOLhyphen"/>tage by this Sermon, which if thou doeſt, bleſs God for it, I take my leave and reſt,</p>
+            <closer>
+               <signed>Thy Cordial Friend in the Lord Jeſus E. P.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:117437:3"/>
+            <head>The Oppreſſor deſtroyed.</head>
+            <epigraph>
+               <q>
+                  <bibl>119. Pſal. 134.</bibl> Deliver mee from the oppreſsion of man, ſo will I keep thy pre<g ref="char:EOLhyphen"/>cepts, <hi>&amp;c.</hi>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>Here are two great troublers of our peace, &amp; hinderers of our keeping the precepts of God, The firſt is, violence of corruption within; the ſecond is, oppreſſion without, In the verſe before the Text, <hi>David</hi> prayeth for help againſt the former hinderance, namely, the violence of corruption within, <hi>Let not any iniquitie have dominion over mee,</hi> hee prayeth for help againſt the latter in the words now read, <hi>Deliver mee from the oppreſſion of man, ſo will I keep thy precepts.</hi>
+            </p>
+            <p>Firſt, Wee have here <hi>Davids</hi> prayer for delive<g ref="char:EOLhyphen"/>rance, <hi>Deliver mee from the oppreſſion of man,</hi> oppreſſion is the matter of it.</p>
+            <pb n="2" facs="tcp:117437:4"/>
+            <p>Secondly, Wee have <hi>Davids</hi> engagement, or his vow upon ſuppoſal of an anſwer to his prayers, <hi>So will I keep thy precepts.</hi>
+            </p>
+            <p>
+               <hi>Deliver mee,</hi> that is, redeem, reſcue me, oppreſſi<g ref="char:EOLhyphen"/>on is bondage, deliverance from oppreſſion is free<g ref="char:EOLhyphen"/>dome, great deliverance hath Chriſt obtained for us, deliverance from ſinne, and deliverance from Hell, and this goeth under the name of redemption from the oppreſſion of man; that is, from the oppreſſion that man hath brought upon mee, or from oppreſ<g ref="char:EOLhyphen"/>ſing man; oppreſſion in general is any wrong done to man by man: But more diſtinct, oppreſſion may be conſidered, either in reference to the manner, or the matter of oppreſſing, in reference to the manner, when it is violently and openly done, when men come boldly and oppreſſe us. It is ſaid of <hi>Nymrod,</hi> that hee was a mighty Hunter before the Lord, hee was a Hunter of Beaſts, but more eſpecially a Hun<g ref="char:EOLhyphen"/>ter of men, Oppreſſion in Scripture is often compa<g ref="char:EOLhyphen"/>red to hunting, in regard of the fierceneſſe of it.</p>
+            <p>Secondly, There are ſecret and cunning oppreſſi<g ref="char:EOLhyphen"/>ons which the Prophet <hi>Hoſen</hi> ſpeakes of in the 12<hi rend="sup">th</hi> of that Propheſie, 7. verſe, ſaith hee, hee is a Mer<g ref="char:EOLhyphen"/>chant, the ballance of deceipt is in his hand, hee lo<g ref="char:EOLhyphen"/>veth to oppreſſe, who was this? ſaith hee, hee is a Merchant. As ſome oppreſſe with a ſword in their hands, that is, violently and openly, come deliver up your eſtates or libertie, or deliver up your life? ſo is it with a paire of ballances in the hand. Ballan<g ref="char:EOLhyphen"/>ces are put in a Synechdoche, for all the commerce betwixt man and man, now ſaith hee, here is one
+<pb n="3" facs="tcp:117437:4"/> that oppreſſeth with Ballances in his hand; he tels you you ſhall have penny for penny, bargain for bargain: yet, ſaith he, he is an oppreſſor, he loves to oppreſſe.</p>
+            <p>Thirdly, You may diſtinguiſh of Oppreſſion, in regard of the matter of it, thus: in the firſt place, Poſitive oppreſſion, as in taking away from a man that which is his: ſecondly, Negative oppreſ<g ref="char:EOLhyphen"/>ſion, in with-holding that from a man which of right belongs unto him: <hi>Thou ſhalt not oppreſſe the hyred ſervant, thou ſhalt pay him his wages at the day,</hi> &amp;c. <hi>Deut.</hi> 24. 14. Againe, you may conſider Oppreſſion, in regard of the matter of it, and ſo it is two-fold: firſt, there is Civill oppreſſion; ſecondly, there is Spirituall oppreſſion.</p>
+            <p>Firſt, Civill oppreſſion is, when the matter is in civill things; and you may divide it either to oppreſ<g ref="char:EOLhyphen"/>ſion of our eſtate, or oppreſſion of our perſons, <hi>Ne<g ref="char:EOLhyphen"/>hemiah 9. 37. The Kings that thou haſt ſet over us for our ſinnes, have dominion over us:</hi> What dominion is this? It was a dominion over their perſons, and over their eſtates, at their will.</p>
+            <p>Secondly, There is Spirituall oppreſſion, and that is of the Conſcience, when there are things impoſed upon the Conſcience, which God hath not made; thoſe things which are of mans making, to impoſe upon Conſcience. Thus the Scribes and Phariſes were great oppreſſors, they oppreſſed mens ſpirits, they did bind heavie burthens, and layd them upon mens ſhoulders, but they themſelves would not touch them with their little finger. Thus Antichriſt is the great Oppreſſor, and hence the Seat of Anti<g ref="char:EOLhyphen"/>chriſt
+<pb n="4" facs="tcp:117437:5"/> hath three Names given it in Scripture, <hi>Sodom, Egypt,</hi> and <hi>Babylon:</hi> and here <hi>David</hi> prayeth, to be delivered from the oppreſſion of man.</p>
+            <p>
+               <hi>So will I keepe thy Precepts:</hi> I will doe it. He ſpeaks reſolutely, and yet he did not depend upon his own ſtrength. What is our ſtrength and our will? Alas, it is nothing: but wee may ſay ſo, as wee are under a Covenant of Grace, and aſſiſtance from God, <hi>So will I keepe.</hi> The word which wee render here, <hi>to keepe,</hi> it ſignifieth to keepe a thing ſo, as to yeeld to it, obey it, and ſubmit to it: ſecondly, it ſignifieth to keepe a thing ſo, as to maintaine it, or protect it. <hi>I will keepe thy Precepts,</hi> ſaith <hi>David;</hi> that is, I will ſubmit to them, and obey them: or thus, I will keepe them, I will maintaine them, I will preſerve them. So it is uſed, <hi>Pſal. 116. 2. The Lord preſerves the ſimple,</hi> or, he keepes the ſimple: Hee doth not meane by the ſimple, the man that is a foole, that hath no wiſdome or underſtanding; but the ſimple man, is a man of a ſimple heart, that hath no windings or doublings in his ſpirit: this is the man that is under the protecti<g ref="char:EOLhyphen"/>on of the Lord. So it may be taken both wayes. By <hi>Precepts</hi> wee muſt underſtand the whole revealed will of God, not onely Precepts of working, but Pre<g ref="char:EOLhyphen"/>cepts of beleeving, it comprehends all: There are Precepts concerning things to be done, and Precepts concerning things to be beleeved: thoſe Precepts which are to be done, are ſuch as wee muſt uſe in our ordinarie converſation, theſe are Precepts of Holi<g ref="char:EOLhyphen"/>neſſe; and then there are Precepts of Truth, in refe<g ref="char:EOLhyphen"/>rence to Doctrine, what wee are to beleeve.</p>
+            <pb n="5" facs="tcp:117437:5"/>
+            <p>
+               <hi>Object.</hi> But, may ſome ſay, did not <hi>David</hi> keepe the Precepts of God before?</p>
+            <p>I anſwer, Yes: <hi>David</hi> had kept the Precepts of God before; for the Lord ſpeakes of him as a man after his owne heart, who would fulfill all his will. What then is the meaning of this expreſſion, <hi>Deliver me from the oppreſſion of man?</hi> The meaning is this; Deliver me from the oppreſſion of man, ſo ſhall I have a better opportunitie to keepe thy Precepts. There are two great hinderances of the ſervice of God, as you have heard before, ſinne within, and oppreſſion of man without. Againe, he meanes, I will keepe them more then I have done before; I will not live as formerly I have done: I have walked in the wayes of thy Commandements before, but now I will runne: This is the meaning of that ex<g ref="char:EOLhyphen"/>preſſion, <hi>Deliver me from the oppreſſion of man, ſo will I keepe thy Precepts.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi> 2. But, may ſome ſay, if God would not deliver <hi>David,</hi> would not he keepe his Precepts?</p>
+            <p>For anſwer to this: <hi>David</hi> did not indent with God, and ſay, if God would not deliver him, then he would not keepe his Precepts; this was farre from <hi>Davids</hi> thoughts. Thus much for the explication of the Text, <hi>Deliver me from the oppreſſion of man, ſo will I keepe thy Precepts.</hi>
+            </p>
+            <p>There are ſeverall Obſervations that ariſe from the words.</p>
+            <p>
+               <hi>Doct.</hi> 1. Obſerve, that in all Ages there hath bin among men, oppreſſors of men: <hi>David</hi> found op<g ref="char:EOLhyphen"/>preſſion in his time; yea, oppreſſion was much elder
+<pb n="6" facs="tcp:117437:6"/> then <hi>David,</hi> it is as old as the World: as ſoone as there could be oppreſſion, oppreſſion appeared, <hi>Cain</hi> oppreſſed <hi>Abel:</hi> in the Age after the Floud, there you reade of great oppreſſion; <hi>Nimrod</hi> was a migh<g ref="char:EOLhyphen"/>tie Hunter before the Lord, he was the Patron of oppreſſors, <hi>Gen.</hi> 10. 89. There is a notable oppreſſi<g ref="char:EOLhyphen"/>on upon Record, <hi>Ier.</hi> which ſtands to this day againſt Jeruſalem, a Citie of God, a place where the people of God did dwell, and yet you ſhall finde op<g ref="char:EOLhyphen"/>preſſion there, yea, nothing but oppreſſion; ſhee is wholly oppreſſed, ſome render it; <hi>Tota ipſa,</hi> ſhee is all oppreſſed; and ſaith the Text, <hi>Oppreſſion is in the midſt of her, in interiori:</hi> it is not here to be meant locally, as if oppreſſion were onely in the midſt of the Citie; but in the midſt of her as there is a middle in her heart, in her ſoule; oppreſſion in her very ſpi<g ref="char:EOLhyphen"/>rits. As there is a ſpirit in man which luſteth to envie, <hi>Iames</hi> 4. 5. ſo there is a ſpirit in man which luſteth to oppreſſe. An envious ſpirit is angry, trou<g ref="char:EOLhyphen"/>bled, and vexed, when any man enjoyeth any thing that is good. An oppreſſing ſpirit will not give over oppreſſing, till it hath taken away that good which a man doth enjoy. And in this, ſee how man is depar<g ref="char:EOLhyphen"/>ted from the example of God: God, he is a preſer<g ref="char:EOLhyphen"/>ver of man, a lover of man; and ſo ſhould man be to man: but they are as the Devill is to man, a Deſtroyer, and an Oppreſſor: Thus are many men to men.</p>
+            <p>
+               <hi>Doct.</hi> 2. Obſerve, (from the Text) <hi>Deliver me</hi> (ſaith <hi>David) from the oppreſſion of man.</hi> Man hath a very heavie hand upon man: <hi>David</hi> deſired rather
+<pb n="7" facs="tcp:117437:6"/> to be under the hand of God, then under the hand of man. The oppreſſion of man is a very heavie op<g ref="char:EOLhyphen"/>preſſion, <hi>David</hi> prayeth againſt it with all his might: the oppreſſion of man is very heavie; it was that which made the Pſalmiſt crie out: <hi>Ariſe, O God, to judge the fatherleſſe and the oppreſſed, that the men of the world may no more oppreſſe;</hi> the word in the ori<g ref="char:EOLhyphen"/>ginall ſignifieth, to <hi>terrifie.</hi> Oppreſſion in Scripture is expreſſed by <hi>Devaſtation,</hi> it is that which layeth all waſte; Oppreſſion makes a wiſe man mad: Op<g ref="char:EOLhyphen"/>preſſion doth not onely ſpoyle a man of his outward eſtate, but it even bereaveth him of his wits; he is as it were diſtracted, diſ-compoſed, unfit for to doe God ſervice. There are three phraſes given to Op<g ref="char:EOLhyphen"/>preſſion, in Scripture:</p>
+            <p>Firſt, The Scripture calleth Oppreſſion the <hi>burthe<g ref="char:EOLhyphen"/>ning of the people;</hi> which is very tedious.</p>
+            <p>Secondly, The Scripture calleth Oppreſſion the <hi>grinding of the face;</hi> and that's farre worſe.</p>
+            <p>Thirdly, The Scripture calleth Oppreſſion the <hi>eating of the fleſh,</hi> the <hi>gnawing of the very bones;</hi> and that is worſt of all.</p>
+            <p>
+               <hi>Doct. 3. Deliver me from the oppreſſion of man: David</hi> was under a feare of oppreſſion, and therefore he addreſſeth himſelfe to God: obſerve, it is God a<g ref="char:EOLhyphen"/>lone that delivereth from oppreſſion, he can doe it, he alone hath power to doe it, he will doe it, he hath promiſed to doe it, the glory of God conſiſts in it; he will doe it, for he is honoured by it; he will break the teeth of the oppreſſors: The Lord doth this many wayes, but I will onely name three.</p>
+            <pb n="8" facs="tcp:117437:7"/>
+            <p>Firſt, By the totall deſtruction and overthrow of Oppreſſors, <hi>They ſhall be conſumed as ſtubble that is fully drie.</hi>
+            </p>
+            <p>Secondly, The Lord delivereth his people from oppreſſion, by reſtraining the rage and malice of the Enemie, that they are not able to hurt them; <hi>Hee ſuffered no man to doe them any wrong,</hi> ſaith the Text: This implyeth, that many would have done them wrong, but God put a barre upon their power, <hi>hee ſuffered no man to doe them any wrong.</hi> God kept the fire from burning the three Children: How? Not by putting out the fire, but by reſtraining the naturall power of the fire, that it could not burne them, <hi>Dan.</hi> 3. 23. God alſo preſerved <hi>Daniel</hi> in the Lyons Denne: How? Not by deſtroying the Ly<g ref="char:EOLhyphen"/>ons, but by taking away the Lyons appetite, hee ſtayed their hunger, that they did not hurt <hi>Daniel, Dan.</hi> 6. 20.</p>
+            <p>Thirdly, Hee delivereth his from Oppreſſion, by changing the hearts of their Oppreſſors, hee can make them of Enemies to become friends, <hi>Eſay 11. 6. The Wolfe alſo ſhall dwell with the Lamb, the Leopard ſhall lye downe with the Kid, and the Calfe and the young Lyon and the fatling together.</hi> God can ſo change the Lyon, that it ſhall not hurt the Lamb; hee can ſo alter the Leopard, that it ſhall not hurt the Kid, but both ſhall lye downe together, and <hi>the Earth ſhall be full of the knowledge of the Lord.</hi> Wee have had great experience of the Lords delivering us from the oppreſſion of man: the firſt way, by deſtroying all our oppreſſors; yea, and by the ſecond way, when
+<pb n="9" facs="tcp:117437:7"/> our Enemies were ſtrong, hee hath reſtrained their power, that they were not able to hurt us. Now our laſt prayer for our Enemies ſhould be this, That God would change their hearts, that of Wolves they might become Lambs.</p>
+            <p>
+               <hi>Doct.</hi> 4. The laſt Doctrine is this, That the Deli<g ref="char:EOLhyphen"/>verance from the oppreſſion of man, ſhould be a ſtrong Engagement upon us, to a new and vigorous ſervice of God: <hi>So will I keepe thy Precepts.</hi>
+            </p>
+            <p>Judgements call from ſinne, <hi>Amos 4. 10. I have brought this and evill upon you, ſaith the Lord, yet ye have not returned unto me:</hi> But the Voyce of Delive<g ref="char:EOLhyphen"/>rance is eſpecially to call to Holineſſe, and that for theſe following Reaſons.</p>
+            <p>Firſt, Becauſe Deliverances are Mercies, and therefore they have this Obligation lying upon them.</p>
+            <p>Secondly, Deliverance from Oppreſſion are great Mercies, and therefore it calls for more Holi<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>Thirdly, Wee are under the Engagements of the Lord; wee have prayed for Deliverance, and behold the Lord hath now delivered us.</p>
+            <p>Fourthly, By Deliverance from our Enemies, we are freed from Incumbrances, and all Hinderances are taken away. Now wee have roome to ſerve God, now wee have an opportunitie to keepe Gods Precepts, now the Oppreſſors are taken away; the enlarging of the heart is an inward helpe for the running of the wayes of thy Commande<g ref="char:EOLhyphen"/>ments.</p>
+            <pb n="10" facs="tcp:117437:8"/>
+            <p>I might give you many more Reaſons for the proofe of the Point, but I will winde up all in ſome few words of Application.</p>
+            <p>
+               <hi>Deliver me from the oppreſſion of man, ſo will I keepe thy Precepts.</hi>
+            </p>
+            <p>Right Honourable, and well-beloved, I need not tell you, that wee are a people who have formerly groaned under Oppreſſion, under ſuch as would have Dominion over our Bodies, over our Cattell, over our Eſtates, at their pleaſure, and eſpecially from them which would lay heavie Yokes upon our Spirits and Conſciences. I need not tell you, that wee have had ſuch Oppreſſors, that ſurely the noyſe of thoſe that groaned under them, are not gone out of our eares. Againe, I need not tell you, that wee were lately under a feare, of having Oppreſſion re<g ref="char:EOLhyphen"/>newed upon us, and to have had thoſe to Rule over us, whoſe little finger would have beene heavier then our former Oppreſſors Loynes. I need not tell you of an Enemie that came like an over-flowing Floud, that would even have ſwallowed us up quick. I need not tell you, that wee are delivered from theſe mens oppreſſions. I need not tell you, that wee have beene fearefully and wonderfully delive<g ref="char:EOLhyphen"/>red; that there is not onely Mercie, but Miracle in our Deliverance. How hath the Oppreſſor ceaſed? They are ceaſed (bleſſed be God) but wee can ſcarcely ſay how. I hope I need not tell you, that it is God that hath delivered us from the oppreſ<g ref="char:EOLhyphen"/>ſion of man; though God hath made uſe of many worthy Inſtruments, for the accompliſhing this
+<pb n="11" facs="tcp:117437:8"/> great Worke, which deſerve your chiefeſt commen<g ref="char:EOLhyphen"/>dations. I need not tell you of theſe things, ſuppo<g ref="char:EOLhyphen"/>ſing alſo that you will heare further concerning this particular at another time. The Deliverance that wee have now had from the oppreſsion of man, hath layd a mightie Engagement upon us to keepe Gods Precepts; it hath put an Engagement upon us, to keepe a Day of Prayſe and Thankſ-giving unto God; it hath put an Engagement upon us, to keepe his Precepts every day.</p>
+            <p>Firſt, ſome may ſay, True it is, wee are delivered from the oppreſsion of man, our Enemies are de<g ref="char:EOLhyphen"/>ſtroyed: but, doe they ſay now, Come, let us keepe the Precepts of God? No, they are farre from that: Come, ſay they, now wee ſhall keepe our Eſtates, and adde unto them; now our Trade is open, let us buy and ſell, and get Gaines; Though this in it ſelfe be lawfull, yet this is not the chiefe end that the people of God make of their Victories. <hi>Davids</hi> Reſolution was, Come, let us keepe the Precepts of God.</p>
+            <p>Secondly, There are others that ſay, Wee are de<g ref="char:EOLhyphen"/>livered from the oppreſsion of man, Come, let us eate and drinke, and rejoyce, wee ſhall not dye to morrow; wee ſhall now live, our Enemies are downe, wee now ſeeme to have a longer terme ad<g ref="char:EOLhyphen"/>ded to our lives: ſurely, may ſome ſay, the bitter<g ref="char:EOLhyphen"/>neſſe of Death is gone.</p>
+            <p>Thirdly, There are ſuch who are ſo farre from keeping the Precepts of God, by being delivered, that they take more libertie to breake the Precepts
+<pb n="12" facs="tcp:117437:9"/> of God, they take libertie to breake all the bounds which God hath kept about them. Their Luſts per<g ref="char:EOLhyphen"/>haps were at a ſtand, when the Oppreſſors held their Rods over them; but now they being delivered from the oppreſsion of man, doe willingly give themſelves over unto ſinne, that ſinne might have dominion over them. Better a thouſand times be under the power of a raging Enemie, then lye under the power and tyrannie of Sinne, to lye under Pride, Covetouſneſſe, Envie, Malice, Drunkenneſſe. What ſhall wee ſay to ſuch a Generation? There was an everlaſting Brand put upon <hi>Ahaz:</hi> This is that <hi>Ahaz,</hi> that ſinned yet more and more, whilſt the hand of God was upon him. How ſhall they eſcape a worſer Brand then <hi>Ahaz</hi> had, who notwithſtanding all thoſe glorious Deliverances which it hath pleaſed God to vouchſafe unto them, yet ſinne more and more againſt him? That as God heapes Delive<g ref="char:EOLhyphen"/>rances upon them, ſo they heape their ſinnes a<g ref="char:EOLhyphen"/>gainſt God. But before I part with theſe, I would willingly commend theſe three things to their con<g ref="char:EOLhyphen"/>ſideration.</p>
+            <p>Firſt, Doe you thinke, that you anſwer the end and deſigne of God, in beſtowing theſe mercies upon you? <hi>Jerem.</hi> 7. 10. there is a ſtrange paſſage: Saith the Lord, <hi>They come and ſtand before me in this Houſe, which is called by my Name, and ſay, Wee are delivered to doe all theſe abominations.</hi> Now, what were theſe abominations? To Steale, Murther, commit Adulterie, Sweare falſely, burne Incenſe unto other Gods: I conceive,
+<pb n="13" facs="tcp:117437:9"/> there were no people in the world ſo wicked as to ſay wee have received theſe mercies, wee are delive<g ref="char:EOLhyphen"/>red from our enemies, that wee may ſteale, mur<g ref="char:EOLhyphen"/>ther, ſweare falſly, &amp;c. I thinke <hi>Sodom</hi> it ſelf would not have ſaid ſo? neither doe I believe this people here did ſay ſo, ſillabically or verbally, but by inter<g ref="char:EOLhyphen"/>pretation there actions did ſpeake ſo much, every one that ſinneth wilfully againſt God, throweth a ſtone at God.</p>
+            <p>2. Doe you think, that it is not poſſible that you may yet need a further deliverance, is it impoſſible that new troubles ſhould ariſe? ſurely no, and God may ſay unto you, why ſhould you bee deli<g ref="char:EOLhyphen"/>vered any more, you are reſolved to ſinne yet more and more and more, why therefore ſhould you bee delivered any more, ſince you have revolted more and more.</p>
+            <p>3. From that dreadfull Scripture, 9. <hi>Ezra</hi> 13. 14. and after all this is come upon us for evill deeds, and for our great treſpaſſes, ſeeing that thou our God haſt puniſhed us leſſe then our iniquities deſerve, and hath given us ſuch deliverance as this, ſhould we againe break thy commandements, and joyne in af<g ref="char:EOLhyphen"/>finitie with the people of theſe abominations: wouldſt thou not bee angrie with us, till thou haſt conſumed us? ſo that there ſhould bee no remnant nor eſcaping.</p>
+            <p>The ſecond uſe may ſerve for exhortation, ſeeing that we are delivered from the oppreſsion of man, be perſwaded to keepe the Precepts of God, keepe them according as you heard in opening of the Text,
+<pb n="14" facs="tcp:117437:10"/> keepe them by way of obedience and ſubmiſſion, and keepe them by way of protection, and pre<g ref="char:EOLhyphen"/>ſervation.</p>
+            <p>Firſt, Bee exhorted to keepe all the precepts of God, by way of obedience and ſubmiſſion, keepe them more ſtrictly then you have done heretofore, how happy would it be if there were found a peo<g ref="char:EOLhyphen"/>ple imitating that pattern, 9. <hi>Acts 31. Then had the Churches reſt throughout all Judea, and Galilee, and Sa<g ref="char:EOLhyphen"/>maria, and were edified, and walking in the feare of the Lord, and in the comfort of the holy Ghoſt were mul<g ref="char:EOLhyphen"/>tiplyed.</hi> Then had the Churches reſt, temporal reſt, reſt from the oppreſſors; the Churches had reſt be<g ref="char:EOLhyphen"/>cauſe they kept the precepts of God, they did walke in the feare of the Lord and were multiplyed: Ma<g ref="char:EOLhyphen"/>giſtrates they ſhould keep the precepts of judgement and juſtice, <hi>Lord</hi> (ſaith <hi>David) I have done judge<g ref="char:EOLhyphen"/>ment and juſtice, therefore deliver me from my Oppreſ<g ref="char:EOLhyphen"/>ſors.</hi> The Lord hath not left you to the Oppreſſor, therefore doe you doe judgement and juſtice. To all this Citie, I would ſay one word, ſeeing the Lord hath delivered you from the Oppreſſion of man, love one another, take heed that God having delive<g ref="char:EOLhyphen"/>red you from open oppreſſion lets not there bee ſe<g ref="char:EOLhyphen"/>cret oppreſſion among yov. I would alſo preſſe you to be keeping of the commandements of God, doe not only keepe them your ſelves, but cauſe others to keep them.</p>
+            <p>Secondly, You muſt defend and protect the pre<g ref="char:EOLhyphen"/>cepts of God, contend earneſtly for the faith once delived to the Saints, eſpecially Magiſtrates and Mi<g ref="char:EOLhyphen"/>niſters,
+<pb n="15" facs="tcp:117437:10"/> they ſhould keep the precepts of God; Mi<g ref="char:EOLhyphen"/>niſters they ſhould defend the precepts of God by arguments, they ſhould redeeme them out of the hands of the Oppreſſors, eſpecially, becauſe there are ſo many that doe pervert them, not only prophane perſons, but other Hereticall perſons, which bring in damnable doctrines: God expects it alſo from Magiſtrates, that they ſhould defend them by the ſword of their power, fulfill the end of God in gi<g ref="char:EOLhyphen"/>ving you victories, keep his truth and his precepts from violence, <hi>Magiſtratus ſunt Cuſtodes utriuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Ta<g ref="char:EOLhyphen"/>bulae</hi> Magiſtrates are the keepers of both the Tables, Hath not God kept this Citie from violence and plundering, your wives from raviſhing, your Chil<g ref="char:EOLhyphen"/>dren from being deſtroyed, your eſtates, your eyes from ſhedding teares, your feet from going downe to the Pit, therefore bee you now keepers of the Lord, the Lord hath kept us as the Apple of his eye, thoſe which have gone about to touch us have been deſtroyed, hee hath kept our peace, our perſons, therefore let us keep his precepts from violence, let none touch them that would wrong them, let it not be ſaid of you, as <hi>David</hi> had occaſion to ſay of <hi>Nabal, In vaine have I kept all that this fellow hath, that my Army hath not touched him, but bee a ſhelter unto him.</hi> Give not God occaſion to ſay ſo by you, in vaine have I kept your Citie, in vaine have I kept your E<g ref="char:EOLhyphen"/>ſtates, in vaine have I kept your perſons, for you will doe nothing for mee, you will not ſo much as keep my precepts, which are for your eternall good, Oh that God might have occaſion to ſay thus of us,
+<pb n="16" facs="tcp:117437:11"/> This people have traded well with the Mercies and Deliverances formerly beſtowed upon them! there<g ref="char:EOLhyphen"/>fore will I give them more Deliverances, I will multiply my Bleſsings upon them. Their Oppreſſors ſhall not riſe and increaſe faſter then I will deſtroy them; when they riſe up againſt them, I will ſcatter them before my people: their Oppreſſors ſhall no more riſe up againſt them, but you ſhall be a people ſaved by the Lord. Thus much for this time.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <opener>
+               <date>September 27. 1651.</date>
+            </opener>
+            <p>Imprimatur</p>
+            <closer>
+               <signed>JOHN DOWNAME.</signed>
+            </closer>
+            <pb facs="tcp:117437:11"/>
+         </div>
+      </back>
+   </text>
+</TEI>
